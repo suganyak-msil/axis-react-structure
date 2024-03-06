@@ -1,0 +1,10 @@
+@layer components {
+    .btn-primary {
+        @apply rounded-b-lg shadow-md;
+    }
+
+    .btn-secondary {
+        @apply text-3xl font-bold mb-6;
+    }
+
+}
