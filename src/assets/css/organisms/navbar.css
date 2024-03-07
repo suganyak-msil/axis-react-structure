@@ -1,0 +1,18 @@
+.navbar-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #97144D;
+    padding: 1% 0%;
+
+}
+
+.navbar-logo {
+    width: 30%;
+}
+
+.navbar-menu {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}

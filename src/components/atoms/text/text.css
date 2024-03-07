@@ -1,0 +1,48 @@
+.Annual-returnsText {
+    font-size: 30px;
+    font-weight: 700;
+    color: #10b955;
+}
+
+.benchmartk-returnsText {
+    font-size: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+
+}
+
+.schemefooter-text {
+    color: #6d6e71;
+    font-size: 13px;
+    text-align: center;
+}
+
+.subtext-scheme,
+.popup-scheme-header {
+    color: black;
+    font-size: 16px;
+
+}
+
+.popup-scheme-header {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.scheme-locked {
+    font-weight: bold;
+    color: #97144D;
+    margin-top: 20%;
+}
+
+.schemepopupfooter span {
+
+    color: #97144D;
+    font-weight: bold;
+    font-size: 18px;
+
+
+
+}

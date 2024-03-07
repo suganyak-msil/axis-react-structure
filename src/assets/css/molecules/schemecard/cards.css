@@ -1,0 +1,37 @@
+.headerwithicons-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.schemecard-footer-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.schemecard-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.schemecard-return-parent {
+    display: flex;
+    flex-direction: column;
+}
+
+.schemecard-button-right {
+    background-color: #FFD0EC;
+    border-bottom-right-radius: 10px;
+}
+
+.schemecard-button-left {
+    background-color: #E3E1D9;
+    border-bottom-left-radius: 10px;
+
+}
+
+.popupscheme-input {
+    margin: 2%;
+}

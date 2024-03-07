@@ -1,0 +1,11 @@
+.Icons-parent {
+    height: 15px;
+    width: 15px;
+
+}
+
+.Icons-parent img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

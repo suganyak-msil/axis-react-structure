@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Provider } from 'react-redux';
+// import { Provider } from 'react-redux';
 import reportWebVitals from './reportWebVitals';
 import { analyticsReportHandler } from './utils/analytics/analyticsReportHandler';
-import store from "./globalstore/store";
+// import store from "./globalstore/store";
 
 import App from './App';
 
@@ -12,9 +12,9 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   // <React.StrictMode>
-    <Provider store={store}>
-      <App />
-    </Provider>
+  // <Provider store={store}>
+  <App />
+  // </Provider>
   // </React.StrictMode>
 );
 
